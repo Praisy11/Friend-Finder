@@ -1,0 +1,9 @@
+.jumbotron {
+	background-color: rgba(238, 38, 161, 0.5);
+}
+.btn btn-primary {
+	color : rgba(238, 38, 161, 0.5);
+} 
+.panel panel-default{
+	color : rgba(238, 38, 161, 0.5);
+}
